@@ -1,23 +1,24 @@
 # hola-mundo-en-java
 
-## Descripci髇
+## Descripci贸n
 
 Programa "hola mundo" en Java
 
-## Compilaci髇 y ejecuci髇 del programa
+## Requisitos
 
-Para **compilar** el programa teclea lo siguiente (es necesario tener el *JDK*):
+Descargar el Java Development Kit
+https://www.oracle.com/pe/java/technologies/downloads/
+Una vez instalado configurar el JDK
+https://www.java.com/es/download/help/path_es.html
 
-```console
-javac HolaMundo.java
-```
+## Instalaci贸n
 
-Y para **ejecutarlo**:
+Descargar el repositorio en archivo .zip
+Descomprimir el archivo
 
-```console
-java HolaMundo
-```
+## Compilaci贸n y Ejecuci贸n
 
-## Aprendizaje de Java
+Abrir la consola y escribir "javac HolaMundo.java
+Luego escribir "java HolaMundo"
 
-Te recomiendo
+
